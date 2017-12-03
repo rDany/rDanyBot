@@ -1,0 +1,45 @@
+cut_id:0100
+
+lang_id:es
+![linear_regression_01]()
+
+Verifiqué que si el terreno tiene una suavidad de 1 el robot podrá ir a 0,5 km/h, y si tiene una
+suavidad de 5 podrá ir a 2.5 km/h y si tiene una suavidad de 10 podrá ir a máxima velocidad! A 5
+km/h.
+
+[pause:1000]
+
+¿Pero como hago que deduzca a cuanto ir si la suavidad es 2 o 7?
+
+[user_input]
+
+
+cut_id:0200
+
+lang_id:es
+
+¡Es cierto! ¿Cómo no se me ocurrió antes?
+
+[pause:1000]
+
+![linear_regression_01]()
+
+Ahí agregué una línea, solo faltaría ajustarla. El valor de la pendiente 0,1 parece no ser correcto.
+Probemos otro valor ¿Cual se te ocurre que puede ser?
+
+[user_input]
+
+cut_id:0200
+
+lang_id:es
+¡Excelente! Ahora nuestro robot sabrá a que velocidad ir, no importa cual sea el valor de suavidad
+
+[pause:1000]
+
+Solo falta enseñarle dos cosas:
+
+• A clasificar rocas
+
+• A encontrar el camino mas corto
+
+[pause:1000]

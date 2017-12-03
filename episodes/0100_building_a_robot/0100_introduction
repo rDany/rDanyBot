@@ -1,0 +1,44 @@
+cut_id:0100
+
+lang_id:es
+rDany está en un laboratorio de robótica en la universidad. El laboratorio está en planta baja, y por
+una gran pared vidriada entra la luz solar. Afuera se extiende el paisaje verde del campus, algunos
+alumnos caminan a lo lejos.
+
+[pause:1000]
+
+
+cut_id:0200
+
+lang_id:es
+El lugar parece vacío, hay componentes electrónicos desparramados por todas partes. En una de las
+mesas hay una notebook, comienza a sonar avisando que hay una videollamada entrante.
+
+[pause:1000]
+
+
+cut_id:0300
+
+lang_id:es
+¡Voy! - Se escucha una voz. rDany sale de abajo de una pila de cables y cajas. Corre hasta la mesa
+donde está la notebook, pero un cable quedó enredado en su pié. Un sonido de cuerda (¡Toing!)
+llena el ambiente y rDany se cae al suelo directamente sobre su cara.
+
+[pause:1000]
+
+
+cut_id:0400
+
+lang_id:es
+rDany queda en el suelo completamente enredada en cables, pero logra alzar una mano y tocar una
+tecla en la notebook para atender el llamado.
+
+[pause:1000]
+
+
+cut_id:0500
+
+lang_id:es
+En la pantalla aparece tu imagen
+
+[user_input]

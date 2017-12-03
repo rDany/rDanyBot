@@ -1,0 +1,18 @@
+cut_id:0100
+
+lang_id:es
+![]()
+
+Éste es un mapa de ejemplo ¿Si el robot está en el punto verde, cual será la secuencia de posiciones
+ABCDE que hará que recorra el menor camino hasta la roca situada en el punto azul? El largo de
+cada camino está marcado en rojo.
+
+[user_input]
+
+
+cut_id:0200
+
+lang_id:es
+¡Excelente! - rDany salta de alegría – Ahora es tiempo de probar la IA que armamos en el robot.
+
+[pause:1000]

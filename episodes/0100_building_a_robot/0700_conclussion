@@ -1,0 +1,45 @@
+cut_id:0100
+
+lang_id:es
+Estoy tan nerviosa, realmente quiero ser Astronauta ¿Te imaginas? - rDany pone voz seria y alza las
+manos enfatizando - “rDany, la primera astronauta robot”
+
+[pause:1000]
+
+Mientras se ríe nerviosamente la IA termina de cargar en el pequeño robot, y rDany lo enciende.
+El robot utiliza su cámara para escanear el ambiente, ve una roca, pero la Red Neuronal indica que
+no es interesante. Unos metros mas adelante hay otra roca, ésta vez la Red Neuronal clasifica la
+roca como “interesante”, sin embargo está muy lejos, y hay varios obstáculos en el camino.
+
+[pause:1000]
+
+El robot genera un plan con diferentes caminos posibles, pero rápidamente elije el mas corto, lo cual
+le permitirá ahorrar energía.
+
+[pause:1000]
+
+Mientras avanza va censando el terreno, y verifica que el suelo del laboratorio es muy suave, nivel
+9, así que decide avanzar a 4,5 km/h.
+
+[pause:1000]
+
+¡Lo logramos! Choca los cinco – rDany acerca la mano a la pantalla de la notebook.
+
+[user_input]
+
+cut_id:0200
+
+lang_id:es
+Estoy segura que con este proyecto nos dejarán entrar en la academia de Astronautas. No veo la
+hora de estar en el espacio, flotando.
+
+[pause:1000]
+
+rDany se sienta en el suelo y comienza a desparramar piedras por todo el laboratorio mientras el
+robot las recolecta.
+
+[pause:1000]
+
+Fin
+
+[user_input]

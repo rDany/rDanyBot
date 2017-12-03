@@ -1,0 +1,50 @@
+cut_id:0100
+
+lang_id:es
+Para clasificar rocas estuve preparando una Red Neuronal, que a partir de Aprendizaje Supervisado
+aprenda a distinguir las rocas que queremos recolectar de las que no.
+
+[pause:1000]
+
+Aquí hay algunos ejemplos:
+
+![]()
+
+[pause:1000]
+
+Sin embargo con solo estos ejemplos apenas pude hacer que elija correctamente 5 de cada 10 rocas.
+
+[pause:1000]
+
+Deberás ayudarme a enseñarle nuevos ejemplos para que disminuya el error:
+
+[pause:1000]
+
+rDany varias rocas de una caja y te las muestra:
+
+![]()
+
+[pause:1000]
+
+Rápidamente escribes la respuesta:
+
+[user_input]
+
+cut_id:0200
+
+lang_id:es
+rDany carga los nuevos datos en la IA del robot, que ahora elije correctamente 9 de cada 10 rocas.
+
+[pause:1000]
+
+¡Mucho mejor! - Dice rDany contenta – Sería ideal que elija correctamente todas las rocas, pero
+como bien sabemos la Regla de Bayes no lo permite. No todos los problemas tienen soluciones
+perfectas.
+
+[pause:1000]
+
+Ahora solo falta enseñarle una sola cosa:
+
+• A encontrar el camino mas corto
+
+[pause:1000]
