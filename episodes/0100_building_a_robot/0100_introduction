@@ -1,9 +1,7 @@
 cut_id:0100
 
 lang_id:es
-rDany está en un laboratorio de robótica en la universidad. El laboratorio está en planta baja, y por
-una gran pared vidriada entra la luz solar. Afuera se extiende el paisaje verde del campus, algunos
-alumnos caminan a lo lejos.
+(Imagen de un laboratorio de robótica)
 
 [pause:1000]
 
@@ -11,8 +9,7 @@ alumnos caminan a lo lejos.
 cut_id:0200
 
 lang_id:es
-El lugar parece vacío, hay componentes electrónicos desparramados por todas partes. En una de las
-mesas hay una notebook, comienza a sonar avisando que hay una videollamada entrante.
+En una de las mesas hay una notebook, comienza a sonar avisando que hay una videollamada entrante.
 
 [pause:1000]
 
